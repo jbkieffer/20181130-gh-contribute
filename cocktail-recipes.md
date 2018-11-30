@@ -19,6 +19,24 @@ Yield: 1 drink
 
 Source: [Imbibe Magazine](http://imbibemagazine.com/The-Boulevardier-Cocktail-Recipe/)
 
+**The Un-Usual Suspect** 
+-1 1/2 ounces ice
+-3/4 ounce gin 
+-1/2 ounce fresh grapefruit juice
+-1/2 ounce Drambuie 
+-1/4 ounce Honey Syrup   
+-1/8 ounce fresh lemon juice 
+-Fernet-Branca Dash of Angostura bitters
+-1 grapefruit twist
+
+Method: 
+-Fill a cocktail shaker with ice. Add all of the remaining ingredients except the twist and shake well. Strain the drink into a chilled coupe and garnish with the grapefruit twist.
+
+Yield: 1 drink
+
+Source: [Food & Wine] (https://www.foodandwine.com/recipes/the-un-usual-suspect-cocktails-2008)
+
+
 ***
 
 ## Non-Alcoholic Drinks
@@ -36,3 +54,4 @@ Method:
 Yield: 2 drinks
 
 Source: [Martha Stewart](https://www.marthastewart.com/343293/cranberry-grapefruit-sparkler)
+
