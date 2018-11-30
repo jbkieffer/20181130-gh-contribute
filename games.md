@@ -1,7 +1,7 @@
-##Party Games to Wow your Friends
+## Party Games to Wow your Friends
 
--Pin the Tail on the Donkey
--Flag football
--Twister
--Hide & Seek
--Red Rover
+- Pin the Tail on the Donkey
+- Flag football
+- Twister
+- Hide & Seek
+- Red Rover
